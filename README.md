@@ -65,6 +65,7 @@ optional arguments:
 ```
 
 ## Future TODOs
+- Test code, CI/CD
 - Proper error handling 
   - Change behavior according to kind of error
   - In some cases, it would be nice to save error stacktrace itself for later investigation 
